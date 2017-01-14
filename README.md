@@ -1,5 +1,6 @@
 # uca20161. Install Node
 Mei keha g Kidaa Rishabh
+MANDI IS HERE
 	a. $sudo apt-get install nodejs
 	
 	b. $sudo ln -s /usr/bin/nodejs /usr/bin/node
